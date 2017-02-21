@@ -1,0 +1,29 @@
+table{
+  text-align: left;
+}
+tr{
+  width: 50px;
+}
+th{
+  text-decoration: underline;
+  font-weight: bold;
+}
+h1{
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+/* Color Palette adapted from: http://www.colourlovers.com/palette/148712/Gamebookers */
+
+.dark-color{
+  background-color: #FF9900;
+}
+
+.light-color{
+  background-color: #3299BB;
+}
+
+td:hover{
+  background-color: #424242;
+  color: #3299BB;
+}
